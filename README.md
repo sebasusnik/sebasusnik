@@ -23,6 +23,8 @@ const me = {
     LinkedIn: "/in/sebasusnik",
     GitHub: "/sebasusnik",
   },
+
+  ship: (what) => console.log(`Let's ship some ${what}`)
 };
 
 me.ship("code")
