@@ -4,9 +4,9 @@
 ## I'm an AWS cloud engineer at Sinapsis 🚀
 
 - I create event-driven solutions using serverless technologies and cloud services ☁️
-- I'm passionate about cloud computing and its potential to transform the way
-  we build and deliver applications 💻
-- I also have experience in frontend, react and nextjs, where I learned how to
+- I'm passionate about cloud computing and its potential to
+  transform the way we build and deliver applications 💻
+- I also have experience in frontend, react and nextjs, and I love
   create user-friendly and responsive web applications 🌐
 
 ## I'm a lifelong learner who loves to explore new challenges and interests 🌱
