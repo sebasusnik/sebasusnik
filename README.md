@@ -1,26 +1,25 @@
 ```yaml
 # ============================================
-#  Sebastian Susnik | Full-Stack Developer
+#  Sebastian Susnik | Product Engineer
 # ============================================
 
 ABOUT:
-  - "Full-stack developer who loves transforming ideas into reliable, elegant software."
-  - "Focus: TypeScript, React, Node, and cloud-native architectures."
+  - "Product Engineer working across full-stack & AI — I turn ideas into shipped products."
+  - "Focus: AI-powered tooling, cloud-native architecture, and end-to-end ownership."
   - "Philosophy: Clean code, meaningful UX, and shipping fast without breaking things."
 
-SKILLS:
-  - TypeScript
+STACK:
+  - TypeScript / Go
   - React
-  - Node.js
-  - Tailwind CSS
-  - SQL
-  - AWS
+  - SST v3 / AWS (Lambda, SQS, Aurora Serverless v2)
+  - tRPC
+  - AI: Bedrock, fal.ai, Claude
 
 CURRENT_STATUS:
-  - "Working at Winclap 💻"
-  - "Building side-projects 🚀"
-  - "Contributing to open source 🤝"
-  - "Always learning 🧠"
+  - "Product Engineer @ Winclap — AI creative production tooling 💻"
+  - "Building PixFit, go-trpc & other side-projects 🚀"
+  - "Open source: go-trpc, a tRPC adapter for Go 🤝"
+  - "Tinkering with Rust, DSP & hardware synths 🎛️"
 
 # > See contact links below
 
